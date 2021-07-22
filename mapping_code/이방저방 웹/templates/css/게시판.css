@@ -1,0 +1,147 @@
+@charset 'utf-8';
+
+html {
+	font-family: 'Apple SD Gothic Neo', Roboto, 'Noto Sans KR', NanumGothic, 'Malgun Gothic', sans-serif;
+	font-size: 14px;
+}
+div {
+    display: block;
+}
+#bbsData {
+    position: relative;
+}
+.bbs-table-write {
+    margin-top: 10px;
+}
+.bbs-table-write textarea {
+    width: 530px;
+    height: 200px;
+}
+#content {
+    padding-bottom: 50px;
+}
+.MS_input_txt {
+    margin-right: 5px;
+    height: 22px;
+    line-height: 22px;
+}
+textarea {
+    width: 600px;
+    height: 47px;
+    padding: 2px;
+	vertical-align: middle;
+    border: 1px solid #ededed;
+}
+#contentWrap {
+    width: 1000px;
+    margin: 0 auto;
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+input, select {
+    border: 1px solid #dadada;
+    vertical-align: middle;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    table-layout: fixed;
+    word-wrap: break-word;
+    word-break: keep-all;
+}
+.privercy-contract .tbl {
+    width: 670px;
+    padding: 0;
+    margin: 0;
+    border-spacing: 0;
+    border-collapse: collapse;
+    border-top: 1px solid #dadada;
+    border-left: 1px solid #dadada;
+}
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+colgroup {
+    display: table-column-group;
+}
+.bbs-table-write tbody th, .bbs-table-write tbody td {
+    padding: 6px 0;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    color: #9d9d9d;
+    font-weight: normal;
+    font-size: 11px;
+}
+th {
+    font-weight: bold;
+    text-align: -internal-center;
+}
+.privercy-contract .tbl th, .privercy-contract .tbl td {
+    height: 32px;
+    padding: 0;
+    margin: 0;
+    border-right: 1px solid #dadada;
+    border-bottom: 1px solid #dadada;
+    letter-spacing: -1px;
+}
+#bbsData .bbs-link-btm {
+    margin-top: 10px;
+    text-align: right;
+}
+.bbs-link {
+    font-size: 0;
+    line-height: 0;
+}
+dl {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.privercy-contract .tbl th {
+    line-height: 32px;
+    color: #3b3b3b;
+    font-size: 12px;
+    background: #f0f0f0;
+    text-align: center;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+a {
+    color: #292929;
+    text-decoration: none;
+    font-size: 12px;
+}
+.bbs-link a {
+    display: inline-block;
+    line-height: 14px;
+    padding: 5px 10px;
+    border: 1px solid #222;
+    margin-left: 2px;
+}
+#bbsData .bbs-link-btm {
+    margin-top: 10px;
+    text-align: right;
+}
+.bbs-link {
+    font-size: 0;
+    line-height: 0;
+}
